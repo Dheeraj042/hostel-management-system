@@ -1,4 +1,14 @@
 
+ADMIN PASSWORD 
+
+USER NAME  admin 
+PASSWORD   test@1234
+
+
+
+
+
+
 USER LOGIN
 ![image](https://github.com/user-attachments/assets/ad9f76f8-69e8-424c-b39e-efcb716c556b)
 
