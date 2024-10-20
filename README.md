@@ -1,8 +1,8 @@
 
 ADMIN PASSWORD 
 
-USER NAME  admin 
-PASSWORD   test@1234
+USER NAME :  admin 
+PASSWORD :  test@1234
 
 
 
